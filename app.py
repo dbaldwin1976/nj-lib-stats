@@ -629,7 +629,7 @@ def show_about_page():
         was used as the IDE for development, testing, and debugging. The application is built with Streamlit
         and deployed on Streamlit Cloud.
              
-        The source code for this app can be found on GitHub: 
+        The source code for this app can be found on GitHub: https://github.com/dbaldwin1976/nj-lib-stats
         
         The data is sourced from official New Jersey State Library public records, covering multiple years of public library statistics.
 
