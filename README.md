@@ -1,2 +1,2 @@
 # nj-lib-stats
-Web application for viewing NJ public library data
+Web application for viewing New Jersey public library data
