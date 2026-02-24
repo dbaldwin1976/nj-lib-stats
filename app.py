@@ -642,6 +642,7 @@ def show_about_page():
         - **History:** Multi-year trend analysis with interactive charting.
         - **Benchmarking:** Side-by-side comparison of different municipalities.
         - **Ranking:** Statewide rankings across various metrics.
+        - **Data Discovery:** Search and export functionality for the entire dataset.
     """)
     if st.button("Close"):
         st.rerun()
