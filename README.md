@@ -1,7 +1,7 @@
 # nj-lib-stats
 This application provides a comprehensive look at New Jersey public library statistics.
 
-Web App URL : https://nj-lib-stats.streamlit.app/
+**Web App URL :** https://nj-lib-stats.streamlit.app/
 
 It is an experiment is using a vibe coding methodology to develop a data exploration tool web application by Doug Baldwin.
 
@@ -11,10 +11,10 @@ The data is sourced from official New Jersey State Library public records, cover
 
 Data Sources: https://www.njstatelib.org/services_for_libraries/library-development/statistics/
 
-Features:
+**Features:**
 
-+ Snapshot: Individual library profiles for specific years.
-+ History: Multi-year trend analysis with interactive charting.
-+ Benchmarking: Side-by-side comparison of different municipalities.
-+ Ranking: Statewide rankings across various metrics.
-+ Data Discovery : Filter dataset with download/export option
++ **Snapshot:** Individual library profiles for specific years.
++ **History:** Multi-year trend analysis with interactive charting.
++ **Benchmarking:** Side-by-side comparison of different municipalities.
++ **Ranking:** Statewide rankings across various metrics.
++ **Data Discovery :** Filter dataset with download/export option
